@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CastleGrimtolFE"
+    }
+  },
+  "defaultProject": "CastleGrimtolFE",
+  "cli": {
+    "analytics": "a6a8ca0f-a706-4ba1-a018-58c35e87068e"
+  }
 }
